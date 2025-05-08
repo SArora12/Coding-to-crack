@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Composite_Design {
-}

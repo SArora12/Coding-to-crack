@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Adapter_design {
-}
